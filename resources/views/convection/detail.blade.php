@@ -8,7 +8,7 @@
             </div>
             <div class="card-body">
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item"><b>ID: </b>{{$convection->id}}</li>
+                    <li class="list-group-item"><b>ID : </b>{{$convection->id}}</li>
                     <li class="list-group-item"><b>Jenis: </b>{{$convection->jenis}}</li>
                     <li class="list-group-item"><b>Jumlah: </b>{{$convection->jumlah}}</li>
                     <li class="list-group-item"><b>Harga: </b>{{$convection->harga}}</li>
